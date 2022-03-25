@@ -19,6 +19,9 @@ package addressBookSystem_CSV_JSON;
 *UC8:-Ability to search Person in a City or State across the multiple AddressBook
 *UC9:-Ability to view Persons by City or State
 *UC10:-Ability to get number of contact persons i.e.count by City or State
+*UC11:-Ability to sort the entries in the address book alphabetically by Person’s name
+*UC12:-Ability to sort the entries in the address book by City,
+       State, or Zip
 */
 import java.util.ArrayList;
 import java.util.Scanner;
